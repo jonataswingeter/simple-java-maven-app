@@ -1,4 +1,4 @@
-# simple-java-maven-app
+# simple-java-maven-app - Jonatas
 
 This repository is for the
 [Using Jenkins to build a Java application with Maven](https://jenkins.io/doc/tutorials/building-a-java-app-with-maven/)
